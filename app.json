@@ -1,0 +1,17 @@
+{
+  "name": "RNExpoTS",
+  "displayName": "RNExpoTS",
+  "expo": {
+    "name": "RNExpoTS",
+    "slug": "RNExpoTS",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
