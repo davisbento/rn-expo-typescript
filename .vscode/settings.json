@@ -1,0 +1,37 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "eslint.enable": true,
+    "eslint.trace.server": "messages",
+    "typescriptHero.imports.stringQuoteStyle": "'",
+    "typescript.preferences.quoteStyle": "single",
+    "files.associations": {
+        ".env*": "properties",
+        "apple-app-site-association": "json",
+        "Fastfile": "ruby",
+        "Podfile": "ruby",
+        ".prettierrc": "json",
+        "*.js": "javascriptreact"
+    },
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.directory": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "*.apk": true,
+        "*.zip": true,
+        "node_modules": false
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescriptHero.imports.organizeOnSave": true,
+    "typescriptHero.imports.ignoredFromRemoval": [
+        "react"
+    ],
+    "typescriptHero.imports.multiLineTrailingComma": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
